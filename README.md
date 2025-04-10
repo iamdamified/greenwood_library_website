@@ -10,12 +10,24 @@ Capstone Project: Enhancing a Community Library Website
 
 ## Cloned The Main Repo Into Local Repo
 
-- Command: _**git clone https://github.com/iamdamified/greenwood_library_website.git**_
+- Command: _**git**_
 
 ![sudo](./img/clone_green.png)
 
-## Cloned The Main Repo Into Local Repo
+## Created Project html files into the local repo on Vscode.
 
-- Command: _**git clone https://github.com/iamdamified/greenwood_library_website.git**_
+![sudo](./img/first_vscode.png)
 
-![sudo](./img/clone_green.png)
+
+## Staged, Committed and Pushed the html files to the main repo
+
+- Command: _**git add .**_
+- Command: _**git add .**_
+
+![sudo](./img/stage_status_commit_push.png)
+
+## Pull the updated main branch into the local repo.
+
+- Command: _**git pull origin main .**_
+
+![sudo](./img/first_vscode.png)
