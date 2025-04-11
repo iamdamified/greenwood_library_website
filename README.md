@@ -61,3 +61,20 @@ Capstone Project: Enhancing a Community Library Website
 - The Project moderator must now review Morgan's work before merging.
 
 ![sudo](./img/main_repo_git_b4_addbook.png)
+
+## Opened and Reviewed Pull Qequest.
+![sudo](./img/commit_review_github.png)
+
+![sudo](./img/commit_review_comment.png)
+
+![sudo](./img/Merge_pull_request.png)
+
+![sudo](./img/confirm_merge.png)
+
+![sudo](./img/successful_merge.png)
+
+![sudo](./img/repo_after_first_merge.png)
+
+## Returned to Main Repo in terminal to pull updated Remote version.
+
+![sudo](./img/Pull_main_after_first_merge.png)
